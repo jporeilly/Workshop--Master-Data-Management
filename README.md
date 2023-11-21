@@ -1,2 +1,2 @@
-# Workshop--Master-Data-Integration
+# Workshop--Master-Data-Management
  MDM
